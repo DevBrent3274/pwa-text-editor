@@ -4,7 +4,8 @@
 
 This apllication is a text editor that works as a PWA.  That is to say, when the text editor looses internet connection, it still has functionality.
 
-## Deployed [Click here for deployed application](https://#####/)
+## Deployed 
+[Click here for deployed application](https://pwa-text-editor-3274.herokuapp.com/)
 
 ## Installation
 
@@ -13,7 +14,7 @@ This apllication is a text editor that works as a PWA.  That is to say, when the
 ```
 npm intsall
 
-npm start
+npm run start
 
 ```
 ## Credits
